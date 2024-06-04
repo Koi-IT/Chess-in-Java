@@ -1,2 +1,2 @@
-# Chess in C
- Chess made with C
+# Chess in Java
+ Chess made with Java
