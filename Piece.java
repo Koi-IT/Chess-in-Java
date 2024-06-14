@@ -1,18 +1,23 @@
 /** Chess Pieces
  * @author Andrew Johnson
  */
+import java.io.*;
+import java.util.*;
 
 public abstract class Piece {
 
-    public void isValidMove(x, y, board) {
+    public void isValidMove( HashMap<String, Piece> board, String[]userPieceAndDestination) {
+        
 
     }
+
+    
 
     public void getColor() {
 
     }
 
-    public void getSymbol() {
+    public void getType() {
         
     }
 }
